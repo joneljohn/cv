@@ -1,0 +1,21 @@
+body {
+  background-color: #c39e5c;
+}
+
+h1 {
+  color: #2b2e4a;
+  font-family: 	Sans-serif;
+}
+
+h3 {
+  color: #2b2e4a;
+  font-family: Sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
